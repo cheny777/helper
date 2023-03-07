@@ -1,4 +1,4 @@
-module go-gitlab.livecourse.com/go/helper
+module github.com/cheny777/helper
 
 go 1.17
 
